@@ -1,0 +1,2 @@
+# friday-trading-worspace
+test
